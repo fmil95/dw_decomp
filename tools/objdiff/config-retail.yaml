@@ -7,6 +7,7 @@ categories:
 expected_paths:
   ALL:  expected/
 
-ignored_files: []
+ignored_files: 
+  - psyq
 
 output: ./objdiff.json
